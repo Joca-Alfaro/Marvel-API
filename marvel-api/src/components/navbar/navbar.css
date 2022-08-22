@@ -1,0 +1,29 @@
+.logo{
+  width: 10%;
+  height: 2%;
+}
+#FRM_SEARCH_ID{
+  margin-left: 1%;
+
+  display: flex;
+}
+
+#FRM_SEARCH_PERSONAJE {
+  margin-left: 1%;
+
+  display: flex;
+   }
+
+#FRM_SEARCH_COMIC {
+  margin-left: 1%;
+
+  display: flex;
+ }
+
+ #FRM_INTUPS{
+  margin-left: 400px;
+ }
+
+ #BTN_BUSCAR{
+  margin-left: 1%;
+ }
