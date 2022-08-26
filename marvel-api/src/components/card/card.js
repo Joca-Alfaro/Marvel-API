@@ -26,7 +26,7 @@ const Characters  = () => {
         <div className="col">
           <div className="tarjeta">
 
-            <img src={el_item.imagen} alt="No pude cargar la imagen :(, Me perdonas si te fallo te pido perdon" />
+            <img src={el_item.imagen.path} alt="No pude cargar la imagen :(, Me perdonas si te fallo te pido perdon" />
 
           </div>
           <div className="titulo_tarjeta" >

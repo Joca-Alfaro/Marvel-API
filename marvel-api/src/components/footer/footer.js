@@ -8,8 +8,8 @@ export const Footer = () => {
 
         <section className="mb-4">
 
-          <a className="btn btn-outline-light btn-floating m-1"  role="button"
-          ><i className="fab fa-facebook-f"></i></a>
+          {/* <a className="btn btn-outline-light btn-floating m-1"  role="button"
+          ><i className="fab fa-facebook-f"></i></a> */}
 
           {/* <!-- Twitter --> */}
           <a className="btn btn-outline-light btn-floating m-1"  role="button"
