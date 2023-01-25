@@ -36,7 +36,7 @@ export const Footer = () => {
       {/* <!-- Copyright --> */}
       <div className="text-center p-3">
         © 2022:
-        <a className="text-white" href="https://github.com/Joca-Alfaro">Created by developer Alfaro</a>
+        <a className="text-white" href="https://github.com/Joca-Alfaro">Created by developer Alfaro </a>
       </div>
       {/* <!-- Copyright --> */}
     </footer>

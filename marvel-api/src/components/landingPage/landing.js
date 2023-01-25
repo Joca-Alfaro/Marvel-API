@@ -4,7 +4,9 @@ import Card from "../card/card"
  const LandingPage = () => {
    return (
        <>
-      <div>soy la landing</div>
+      <div>
+        <br /><br /><br />
+      </div>
     <Card/>
   </>
    )
